@@ -1,9 +1,13 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:030737,60:2426aa&text=DIO%20Lab%20Santander&nbsp;Dev&nbsp;Week&nbsp;2023&reversal=false&section=header&textBg=false&animation=fadeIn&fontColor=f8fafc&fontSize=50">
+
 # Santander Dev Week 2023 Java API
 
-RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
+Fork do projeto: [Santander Dev Week 2023 Java API](https://github.com/alberto-yano/dio-lab-santander-dev-week-2023-api.git) porém com atualização para Java 21 e as mais novas bibliotecas, trocado o Gradle por Maven, e modificado para a forma que eu trabalho com APIs.
+
+RESTful API da Santander Dev Week 2023 construída em Java 21 com Spring Boot 3.
 
 ## Principais Tecnologias
- - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
+ - **Java 21**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
  - **Spring Boot 3**: Trabalharemos com a mais nova versão do Spring Boot, que maximiza a produtividade do desenvolvedor por meio de sua poderosa premissa de autoconfiguração;
  - **Spring Data JPA**: Exploraremos como essa ferramenta pode simplificar nossa camada de acesso aos dados, facilitando a integração com bancos de dados SQL;
  - **OpenAPI (Swagger)**: Vamos criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhada com a alta produtividade que o Spring Boot oferece;
